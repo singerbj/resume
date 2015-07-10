@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Benjamin Singer",
+    "label": "Software Engineer",
+    "picture": "https://avatars0.githubusercontent.com/u/3630755?v=3&s=400",
+    "email": "benjaminsinger@gmail.com",
+    "phone": "952.220.0134",
+    "website": "singerbj.github.io",
+    "summary": "",
+    "location": {
+      "address": "4501 Park Glen Rd. Apt. 163",
+      "postalCode": "MN 55416",
+      "city": "Saint Louis Park",
+      "countryCode": "US",
+      "region": "Minnesota"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "singerbj",
+        "url": "https://github.com/singerbj"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/pub/benjamin-singer/4b/286/a43"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "HelpSystems",
+      "position": "Software Engineer 1",
+      "website": "helpsystems.com",
+      "startDate": "6-09-2014",
+      "summary": "Javascript, Java, and other research and development related to information technology, compliance and security."
+    },
+    {
+      "company": "Helpsystems",
+      "position": "Software Engineering Intern",
+      "website": "helpsystems.com",
+      "startDate": "6-01-2013",
+      "endDate": "8-20-2013",
+      "summary": "Java, Javascript, and Vagrant Dev Ops experimental research and development."
+    },
+    {
+      "company": "LTS Web Development",
+      "position": "Ruby on Rails Developer",
+      "website": "uwec.edu",
+      "startDate": "2-01-2013",
+      "endDate": "5-17-2014",
+      "summary": "Full stack web application development for organizations and departments on the UW - Eau Claire Campus."
+    } 
+  ],
+  "education": [
+    {
+      "institution": "UW - Eau Claire",
+      "area": "Computer Science - Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-05-17"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "~ 4 Years"
+    },
+    {
+      "name": "Ruby (Rails and Sinatra)",
+      "level": "~ 2 Years"
+    },
+    {
+      "name": "Javascript (Angular and Backbone)",
+      "level": "~ 1 Year"
+    },
+    {
+      "name": "SQL Databases (SQLite, Postgres, MySQL)"
+    },
+    {
+      "name": "Mutiple OS's (Windows, Mac OS X, Unix, Linux)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Biking"
+    },
+    {
+      "name": "Soccer"
+    },
+    {
+      "name": "Craft Beer"
+    },
+    {
+      "name": "Gaming"
+    }
+  ]
+}
