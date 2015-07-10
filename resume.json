@@ -40,7 +40,7 @@
       "website": "helpsystems.com",
       "startDate": "6-01-2013",
       "endDate": "8-20-2013",
-      "summary": "Java, Javascript, and Vagrant Dev Ops experimental research and development."
+      "summary": "Java, Javascript, Vagrant, and Dev Ops experimental research and development."
     },
     {
       "company": "LTS Web Development",
@@ -48,36 +48,48 @@
       "website": "uwec.edu",
       "startDate": "2-01-2013",
       "endDate": "5-17-2014",
-      "summary": "Full stack web application development for organizations and departments on the UW - Eau Claire Campus."
+      "C": "Full stack web application development for organizations and departments on the UW - Eau Claire Campus."
     } 
   ],
   "education": [
     {
-      "institution": "UW - Eau Claire",
+      "institution": "University of Wisconsin - Eau Claire",
       "area": "Computer Science - Software Engineering",
       "studyType": "Bachelor",
-      "startDate": "2010-09-01",
-      "endDate": "2014-05-17"
+      "startDate": "09-01-2010",
+      "endDate": "05-17-2014"
+    },
+    {
+      "institution": "Harlaxton College - England",
+      "area": "Study Abroad",
+      "studyType": "Bachelor",
+      "startDate": "01-01-2012",
+      "endDate": "04-17-2012"
     }
   ],
   "skills": [
     {
       "name": "Java",
-      "level": "~ 4 Years"
+      "level": "~ 4 Years",
+      "summary":"Java is the language I learned programming with in college, and I continue to use it in my current role at HelpSystems making restful web services."
     },
     {
       "name": "Ruby (Rails and Sinatra)",
-      "level": "~ 2 Years"
+      "level": "~ 2 Years",
+      "summary":"Ruby on Rails is what I used in my web application development at LTS Web Development in college. I also primarily use ruby for my side project back end language using sinatra."
     },
     {
       "name": "Javascript (Angular and Backbone)",
-      "level": "~ 1 Year"
+      "level": "~ 1 Year",
+      "summary":"At my year at HelpSystems, I wrote an AngularJs front end for a Server Compliance product. I have also been to multiple javascript training classes at Frontend Masters."
     },
     {
-      "name": "SQL Databases (SQLite, Postgres, MySQL)"
+      "name": "SQL Databases (SQLite, Postgres, MySQL and more)",
+      "summary":"Throughout the use of the above languages, I have encountered numerous types of databases."
     },
     {
-      "name": "Mutiple OS's (Windows, Mac OS X, Unix, Linux)"
+      "name": "Mutiple OS's (Windows, Mac OS X, Unix, Linux)",
+      "summary":"I have experience with all the labove operating systems, both in use and their architectural differences."
     }
   ],
   "interests": [
