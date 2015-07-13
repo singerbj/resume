@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://avatars0.githubusercontent.com/u/3630755?v=3&s=400",
     "email": "benjaminsinger@gmail.com",
-    "phone": "952.220.0134",
+    "phone": "952-220-0134",
     "website": "singerbj.github.io",
     "summary": "",
     "location": {
@@ -16,20 +16,20 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/pub/benjamin-singer/4b/286/a43"
+      },
+      {
         "network": "Github",
         "username": "singerbj",
         "url": "https://github.com/singerbj"
-      },
-      {
-        "network": "LinkedIn",
-        "url": "https://www.linkedin.com/pub/benjamin-singer/4b/286/a43"
       }
     ]
   },
   "work": [
     {
       "company": "HelpSystems",
-      "position": "Software Engineer 1",
+      "position": "Software Engineer",
       "website": "helpsystems.com",
       "startDate": "6-09-2014",
       "summary": "Javascript, Java, and other research and development related to information technology, compliance and security."
@@ -79,7 +79,7 @@
       "summary":"Ruby on Rails is what I used in my web application development at LTS Web Development in college. I also primarily use ruby for my side project back end language using sinatra."
     },
     {
-      "name": "Javascript (Angular and Backbone)",
+      "name": "Javascript (Angular, Backbone, Node)",
       "level": "~ 1 Year",
       "summary":"At my year at HelpSystems, I wrote an AngularJs front end for a Server Compliance product. I have also been to multiple javascript training classes at Frontend Masters."
     },
