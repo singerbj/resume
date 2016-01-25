@@ -49,7 +49,7 @@
       "startDate": "2-01-2013",
       "endDate": "5-17-2014",
       "C": "Full stack web application development for organizations and departments on the UW - Eau Claire Campus."
-    } 
+    }
   ],
   "education": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "name": "Javascript (Angular, Backbone, Node)",
-      "level": "~ 1 Year",
+      "level": "~ 2 Year",
       "summary":"At my year at HelpSystems, I wrote an AngularJs front end for a Server Compliance product. I have also been to multiple javascript training classes at Frontend Masters."
     },
     {
@@ -97,13 +97,16 @@
       "name": "Biking"
     },
     {
+      "name": "Interior Design"
+    },
+    {
       "name": "Soccer"
     },
     {
       "name": "Craft Beer"
     },
     {
-      "name": "Gaming"
+      "name": "Video Games"
     }
   ]
 }
